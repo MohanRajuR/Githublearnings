@@ -31,6 +31,7 @@ test('stagelogin', async ({ page }) => {
   console.log("I have successfully searched the org with name mohan");
 });
 
+console.log("I have successfully searched the org with name mohan");
 //JavaScript event handling ( handling click event on hidden button )
 //await page.getByRole('button', { name: 'Submit' }).dispatchEvent('click');
 
